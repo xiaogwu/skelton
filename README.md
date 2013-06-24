@@ -7,3 +7,5 @@ You are now done with most of your yak shaving. Whenever you want to start a new
 1. Edit your NAME.gemspec file to have all the information for your project.
 1. Rename test/test_NAME.rb to also have your project name.
 1. Start coding.
+
+Credit: Taken from [Learning Ruby the Hard Way](http://ruby.learncodethehardway.org/book/ex46.html)
